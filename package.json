@@ -1,0 +1,24 @@
+{
+  "name": "ifttt-error",
+  "version": "1.0.0",
+  "description": "A small package that throws errors that are compatible with IFTTT",
+  "main": "src/error.js",
+  "scripts": {
+    "bulid": "tsc src/error.ts --sourceMap true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deadlynjdj/ifttt-error.git"
+  },
+  "keywords": [
+    "IFTTT",
+    "error",
+    "json"
+  ],
+  "author": "deadlynjdj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deadlynjdj/ifttt-error/issues"
+  },
+  "homepage": "https://github.com/deadlynjdj/ifttt-error#readme"
+}
